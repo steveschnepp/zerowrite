@@ -7,4 +7,4 @@ Compile with
     
 Usage
 
-   zerowrite filename block_size [nb_blocks]
+    zerowrite filename block_size [nb_blocks]
